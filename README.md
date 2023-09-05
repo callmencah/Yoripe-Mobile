@@ -1,6 +1,7 @@
-# Yoripe-Mobile
+# Yoripe Mobile Android Apps ( Appium , Selenium Java, Cucumber,Junit )
 Yoripe-Mobile Android Apps 
 YoRipe app is a sharing and learning platform for home cooks, users also discover new products and can make purchases via our grocer partners. 
+
 ### Installed
 **`Requires`**
 - [Appium GUI V.1.22.3](https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4)
@@ -17,6 +18,9 @@ YoRipe app is a sharing and learning platform for home cooks, users also discove
 - [Junit-Jupiter-Api 5.8.2](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.2)
 ### Demo Click For Play Video 
 https://www.youtube.com/watch?v=_Uyl6YXLC3M&t=4s
+
+![image_2023-09-05_10-45-25](https://github.com/callmencah/Yoripe-Mobile/assets/29263027/1138f535-0224-4a5d-9861-a74bda21dfd3)
+
 ### Platforms Tested
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 - [Windows 11 Pro 21H2](https://www.microsoft.com/en-gb/software-download/windows11)
